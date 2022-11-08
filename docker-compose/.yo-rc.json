@@ -1,0 +1,11 @@
+{
+  "generator-jhipster": {
+    "appsFolders": ["hoteladmin", "hotelgetaway", "hotelweb"],
+    "clusteredDbApps": {},
+    "directoryPath": "../",
+    "gatewayType": "SpringCloudGateway",
+    "jwtSecretKey": "YzEzNWIzOTRkOGY5ZDQ0Nzc0ZmJjMWIwNmQ1YTBkMzgzMWM0M2ViMmFjNDhhMDBjN2NkOWRjNmFkMGY2MTFhYzc0ZmU5YWJlMzU3ZDRjMTA4OTQxODVlYWVmNTcyOTkxYWVjYg==",
+    "monitoring": "no",
+    "serviceDiscoveryType": "eureka"
+  }
+}
