@@ -1,0 +1,17 @@
+{
+  "changelogDate": "20221108101007",
+  "clientRootFolder": "hoteladmin",
+  "databaseType": "sql",
+  "fields": [
+    {
+      "fieldName": "proba",
+      "fieldType": "String"
+    }
+  ],
+  "microserviceName": "hoteladmin",
+  "name": "Proba",
+  "pagination": "no",
+  "readOnly": false,
+  "relationships": [],
+  "service": "no"
+}
